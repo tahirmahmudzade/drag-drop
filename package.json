@@ -1,13 +1,13 @@
 {
-	"name": "ts-learn",
+	"name": "Drag & Drop",
 	"version": "1.0.0",
-	"description": "learning ts",
-	"main": "index.js",
+	"description": "Drag & Drop",
+	"main": "app.js",
 	"scripts": {
 		"start": "lite-server",
 		"start:watch": "tsc --watch"
 	},
-	"author": "tahir mahmudzade",
+	"author": "Tahir Mahmudzade",
 	"license": "ISC",
 	"devDependencies": {
 		"lite-server": "^2.6.1"
